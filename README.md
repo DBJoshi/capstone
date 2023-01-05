@@ -1,7 +1,5 @@
 # Adverse effects of Covid-19 Vaccination in United States #
 
-Tableau Dashboard
-
 ## Table of Contents
 
  1. [Motivation](#1motivation)
@@ -12,6 +10,8 @@ Tableau Dashboard
  6. [Challenges](#6challenges)
  7. [Technologies Used](#7technologiesused)
  8. [Conclusion](#8conclusion)
+ 9. [Future Roadmap](#9futureroadmap)
+ 10. [Tableau Dashboard](#10tableaudashboard)
 
 ## <a name="1motivation"></a> Motivation:
 
@@ -71,12 +71,15 @@ This analysis of adverse events shows:
 *	Gender study showed that female patients reported more adverse effects compared to males, and symptoms for adverse effects were also more in females.
 *	Age group study shows that death, disability, life threatening events and hospitalizations were reported more in the 65+ age group whereas ER visits and office visits were reported more in 18-64 age group.
 *	Age group 5-12 and 12-18 reported the least numbers of cases per 100,000 doses administered.
-Future Roadmap:
+
+## <a name="9futureroadmap"></a>Future Roadmap:
+
 *	State specific analysis (Michigan and Kentucky): Michigan and Kentucky showed the highest number of adverse effects in 4 subcategories, and it would be interesting to find and analyze this further.
 *	Pre-existing medical conditions: Adverse effects might be correlated to pre-existing medical conditions, medications, or allergies and that would be an interesting angle to analyze further.
 *	Adverse effects based on Manufacture: It would be interesting to see if there are any specific adverse effects reported more times with a specific vaccine manufacturer.
 
- 
+ ## <a name="10tableaudashboard"></a>Tableau Dashboard:
+ https://public.tableau.com/shared/YXSCBMT2Y?:display_count=n&:origin=viz_share_link
 
 
 
