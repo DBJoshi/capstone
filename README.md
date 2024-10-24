@@ -79,7 +79,7 @@ This analysis of adverse events shows:
 *	Adverse effects based on Manufacture: It would be interesting to see if there are any specific adverse effects reported more times with a specific vaccine manufacturer.
 
  ## <a name="10tableaudashboard"></a>Tableau Dashboard:
- https://public.tableau.com/shared/YXSCBMT2Y?:display_count=n&:origin=viz_share_link
+ https://public.tableau.com/shared/?:display_count=n&:origin=viz_share_link
 
 
 
